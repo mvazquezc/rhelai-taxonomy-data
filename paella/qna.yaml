@@ -23,7 +23,6 @@ seed_examples:
       Artichoke hearts and stems may be used as seasonal ingredients.
       Most paella cooks use bomba rice, but a cultivar known as senia is also
       used in the Valencia region.
-
     questions_and_answers:
       - question: |
           What is Paella?
@@ -108,6 +107,76 @@ seed_examples:
           How is Paella eaten?
         answer: |
           Dining guests traditionally eat directly out of the pan instead of serving in plates.
+      - question: |
+          Is paella covered after cooking?
+        answer: |
+          Some recipes call for paella to be covered and left to settle, this depends on the cook.
+  - context: |
+      Muslims in Al-Andalus began rice cultivation around the 10th century. Consequently, eastern
+      Iberian Peninsula locals often made casseroles of rice, fish, and spices for family gatherings
+      and religious feasts, thus establishing the custom of eating rice in Spain. This led to rice
+      becoming a staple by the 15th century. Afterward, it became customary for cooks to combine rice
+      with vegetables, beans, and dry cod, providing an acceptable meal for Lent.
+      Along Spain's Mediterranean coast, rice was predominantly eaten with fish.
+
+      Spanish food historian Lourdes March notes that the dish "symbolizes the union and heritage
+      of two important cultures, the Roman, which gives us the utensil and the Arab which brought
+      us the basic food of humanity for centuries: rice."
+    questions_and_answers:
+      - question: How began rice cultivation in the region?
+        answer: |
+          Muslims in Al-Andalus began rice cultivation around the 10th century.
+      - question: |
+          What established the custom of eating rice in Spain?
+        answer: |
+          When muslims introduced rice cultivation, eastern Iberian Peninsula locals often made
+          casseroles of rice, fish, and spices for family gatherings and religious feasts.
+      - question: |
+          What symbolizes the paella dish?
+        answer: |
+          Lourdes March notes that the dish "symbolizes the union and heritage of two important
+          cultures, the Roman, which gives us the utensil and the Arab which brought us the
+          basic food of humanity for centuries: rice."
+  - context: |
+      The most widely used, complete ingredient list of this era was: short-grain white rice,
+      chicken, rabbit, snails (optional), duck (optional), butter beans, great northern beans,
+      runner beans, artichoke (a substitute for runner beans in the winter), tomatoes, fresh rosemary,
+      sweet paprika, saffron, garlic (optional), salt, olive oil, and water. Poorer Valencians
+      sometimes used only snails for meat. Many Valencians insist that no more than these
+      ingredients should go into making modern paella valenciana, and, in particular, that
+      fish and shellfish are "absolutely out of the question." Another important rule, according
+      to Valencians, is that fresh rosemary should not be added to paella valenciana made with
+      rosemary-eating snails.
+    questions_and_answers:
+      - question: What ingredients should I buy to cook paella valenciana?
+        answer: |
+          To cook a valencian paella you should buy:
+            - Short-grain white rice (bomba, jsendra, albufera, etc.)
+            - Chicken
+            - Rabbit
+            - Snails (optional)
+            - Duck (optional)
+            - Butter beans
+            - Great northern beans
+            - Runner beans
+            - Artichoke (optional)
+            - Tomatoes
+            - Fresh rosemary (optional)
+            - Sweet paprika
+            - Saffron
+            - Garlic (optional)
+            - Salt
+            - Olive oil
+            - Tap water (from Valencia)
+      - question: |
+          Can I add extra ingredients?
+        answer: |
+          You can, but then you won't be cooking a valencian paella.
+      - question: |
+          What happens if I add seafood to the paella?
+        answer: |
+          You can cook a seafood paella, which doesn't have meat. You shouldn't be mixing both
+          in the same paella, otherwise valencians will make fun of you.
 document_outline: |
   Information about the Paella dish including the
   history, characteristics, ingredients and how to cook the dish.
