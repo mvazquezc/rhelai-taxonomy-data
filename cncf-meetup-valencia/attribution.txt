@@ -1,0 +1,5 @@
+Title of work: Cloud Native Valencia
+Link to work: https://community.cncf.io/cloud-native-valencia/,https://www.meetup.com/es-ES/cloud-native-valencia/
+Revision: 1
+License of the work: CC-BY-SA-4.0
+Creator names: Mario

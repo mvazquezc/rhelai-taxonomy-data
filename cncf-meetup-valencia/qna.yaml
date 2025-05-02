@@ -1,0 +1,110 @@
+version: 3
+domain: dishes
+created_by: mvazquezc
+seed_examples:
+seed_examples:
+  - context: |
+      Cloud Native Valencia is a local community dedicated to promoting and exploring cloud-native technologies, tools, and best practices. Backed by the CNCF (Cloud Native Computing Foundation), the group brings together professionals, enthusiasts, and newcomers interested in Kubernetes, containers, DevOps, observability, and related cloud-native topics.
+
+      The group's goal is to foster collaboration, knowledge-sharing, and innovation within the cloud-native ecosystem in the Valencia region.
+    questions_and_answers:
+      - question: |
+          What is Cloud Native Valencia?
+        answer: |
+          Cloud Native Valencia is a local community focused on cloud-native technologies, supported by the Cloud Native Computing Foundation.
+      - question: |
+          What technologies are discussed in Cloud Native Valencia?
+        answer: |
+          The group explores Kubernetes, containers, DevOps, observability, and other cloud-native tools and practices.
+      - question: |
+          What is the main goal of the Cloud Native Valencia group?
+        answer: |
+          The group aims to foster collaboration, knowledge-sharing, and innovation in the cloud-native ecosystem of the Valencia region.
+  - context: |
+      Cloud Native Valencia maintains two main platforms for community engagement:
+
+      - Meetup: https://www.meetup.com/es-ES/cloud-native-valencia/  
+        This is the main event hub for updates on upcoming meetups, talks, and workshops.
+
+      - CNCF Community Portal: https://community.cncf.io/cloud-native-valencia/  
+        This is the official listing under the CNCF where members can connect and participate in global CNCF initiatives.
+    questions_and_answers:
+      - question: |
+          Where can I find event updates for Cloud Native Valencia?
+        answer: |
+          You can find updates on their Meetup page at https://www.meetup.com/es-ES/cloud-native-valencia/.
+      - question: |
+          What is the purpose of the CNCF Community Portal listing?
+        answer: |
+          The CNCF Community Portal listing helps members connect and participate in CNCF-backed initiatives.
+      - question: |
+          What are the two main platforms used by Cloud Native Valencia?
+        answer: |
+          The group uses Meetup and the CNCF Community Portal to share information and engage with the community.
+  - context: |
+      Cloud Native Valencia organizes regular events including:
+
+      - In-person and virtual meetups
+      - Hands-on workshops and labs
+      - Lightning talks and presentations
+      - Community collaboration days
+
+      These events aim to bring together professionals and enthusiasts to learn and share knowledge.
+    questions_and_answers:
+      - question: |
+          What types of events does Cloud Native Valencia organize?
+        answer: |
+          They organize in-person and virtual meetups, hands-on workshops, lightning talks, and collaboration days.
+      - question: |
+          Who are the events intended for?
+        answer: |
+          The events are meant for professionals and enthusiasts interested in learning and sharing cloud-native knowledge.
+      - question: |
+          Are the events only virtual?
+        answer: |
+          No, Cloud Native Valencia hosts both in-person and virtual events.
+  - context: |
+      The topics typically covered at Cloud Native Valencia events include:
+
+      - Kubernetes and its ecosystem
+      - CI/CD pipelines and GitOps
+      - Observability with Prometheus, Grafana, OpenTelemetry
+      - Serverless and microservices
+      - Cloud-native security
+    questions_and_answers:
+      - question: |
+          What observability tools are discussed in Cloud Native Valencia events?
+        answer: |
+          Prometheus, Grafana, and OpenTelemetry are observability tools covered in their events.
+      - question: |
+          Does Cloud Native Valencia cover serverless computing?
+        answer: |
+          Yes, serverless computing is one of the topics regularly discussed.
+      - question: |
+          Is security part of the topics in Cloud Native Valencia?
+        answer: |
+          Yes, cloud-native security is explicitly listed among the core topics.
+  - context: |
+      Community members can get involved in Cloud Native Valencia by contributing or presenting at events. The group welcomes participation through the Meetup page or the CNCF community portal.
+
+      Organizers also encourage attendees to share ideas or help with logistics, content creation, or sponsorships.
+    questions_and_answers:
+      - question: |
+          How can I contribute to Cloud Native Valencia?
+        answer: |
+          You can contribute by presenting at events or helping with logistics, content, or sponsorships.
+      - question: |
+          Where can I express interest in contributing?
+        answer: |
+          You can reach out via the Meetup page or the CNCF Community Portal to express interest in contributing.
+      - question: |
+          Does Cloud Native Valencia accept volunteers?
+        answer: |
+          Yes, they welcome volunteers to support various aspects of organizing and running events.
+document_outline: |
+  Information about the cloud native valencia group.
+document:
+  repo: https://github.com/mvazquezc/rhelai-taxonomy-data/
+  commit: main
+  patterns:
+    - cncf-meetup-valencia/cloudnativevalencia.md
