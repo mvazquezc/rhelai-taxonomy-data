@@ -1,7 +1,6 @@
 version: 3
-domain: dishes
+domain: community
 created_by: mvazquezc
-seed_examples:
 seed_examples:
   - context: |
       Cloud Native Valencia is a local community dedicated to promoting and exploring cloud-native technologies, tools, and best practices. Backed by the CNCF (Cloud Native Computing Foundation), the group brings together professionals, enthusiasts, and newcomers interested in Kubernetes, containers, DevOps, observability, and related cloud-native topics.
@@ -23,10 +22,10 @@ seed_examples:
   - context: |
       Cloud Native Valencia maintains two main platforms for community engagement:
 
-      - Meetup: https://www.meetup.com/es-ES/cloud-native-valencia/  
+      - Meetup: https://www.meetup.com/es-ES/cloud-native-valencia/
         This is the main event hub for updates on upcoming meetups, talks, and workshops.
 
-      - CNCF Community Portal: https://community.cncf.io/cloud-native-valencia/  
+      - CNCF Community Portal: https://community.cncf.io/cloud-native-valencia/
         This is the official listing under the CNCF where members can connect and participate in global CNCF initiatives.
     questions_and_answers:
       - question: |
